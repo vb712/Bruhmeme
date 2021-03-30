@@ -90,15 +90,8 @@ nav a:hover{
     display: block;
     font-size: 1.2rem;
     margin:  -75px auto;
-    text-rendering:optimizeLegibility;
     color: aliceblue;
-    background-color: #f3ec78;
-    background-image: linear-gradient(45deg, #c75bc2, #61c0d8);
-    background-size: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent; 
-    -moz-text-fill-color: transparent;
+ 
 }
 /* <------------------------------> */
 /* <----------Media query for width 550px--------> */
